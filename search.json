@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ducky2805.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nProfessional Summary\nPublic health economist with 8+ years of experience in health systems research, cost-effectiveness analysis, and equity in access to care. Skilled in Python, R, Power BI, and statistical modeling. Passionate about data-driven health policy and global health equity."
+  }
+]
