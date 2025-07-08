@@ -1,7 +1,22 @@
 ---
-title: ""
+title: "About me"
+subtitle: "Health Economist | Public Health Researcher | Data Analyst"
+image: profile.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+  image-width: 150px
+  links:
+    - icon: Insta
+      text: Instagram
+      href: https://www.instagram.com/huyen_duck/
+    - icon: github
+      text: Github
+      href: https://github.com/ducky2805
+    - icon: orcid
+      text: ORCiD
+      href: https://orcid.org/0000-0002-4091-8786
 ---
-
-# Professional Summary
 
 Public health economist with 8+ years of experience in health systems research, cost-effectiveness analysis, and equity in access to care. Skilled in Python, R, Power BI, and statistical modeling. Passionate about data-driven health policy and global health equity.
