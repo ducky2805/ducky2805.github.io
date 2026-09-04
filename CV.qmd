@@ -2,6 +2,6 @@
 title: "CV"
 ---
 
-[Download my full CV (PDF)](files/CV_Huyen_Nguyen.pdf)
+[Download my full CV (PDF)](CV_Huyen_Nguyen.pdf)
 
-<embed src="files/Huyen_Nguyen_CV.pdf" width="100%" height="800px" type="application/pdf">
+<embed src="CV_Huyen_Nguyen.pdf" width="100%" height="800px" type="application/pdf">
