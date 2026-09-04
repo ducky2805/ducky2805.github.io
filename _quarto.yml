@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Huyen Nguyen"
+  title: "Huyen DUCKY"
   navbar:
     left:
       - href: index.qmd
