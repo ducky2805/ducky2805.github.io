@@ -1,3 +1,8 @@
 ---
 title: "About"
+subtitle: "Health Economist & Health Equity Researcher | World Traveler | Feline Enthusiast"
 ---
+
+## About Me
+
+> “I am a Health Economist dedicated to advancing health equity, decision-analytic modeling, and evidence-based policy. Beyond data and decision science, I am a wanderlust traveler and cultural explorer who has called Vietnam, Sweden, the UK, and Puerto Rico home. Off-duty, you’ll usually find me discovering local food cultures, exploring open waters, or spending quiet time at home with my cat.”
