@@ -1,6 +1,6 @@
 ---
 title: "About me"
-subtitle: "Health Economist | Public Health Researcher | Data Analyst"
+subtitle: "Health Economist & Health Equity Researcher | World Traveler | Feline Enthusiast"
 image: profile.jpg
 about:
   id: hero-heading
@@ -19,4 +19,4 @@ about:
       href: https://orcid.org/0000-0002-4091-8786
 ---
 
-Public health economist with 8+ years of experience in health systems research, cost-effectiveness analysis, and equity in access to care. Skilled in Python, R, Power BI, and statistical modeling. Passionate about data-driven health policy and global health equity.
+I’m a Health Economist passionate about advancing health equity through decision-analytic modeling and evidence-based policy. Beyond research, I’m a curious traveler and cultural explorer who has called Vietnam, Sweden, the UK, and Puerto Rico home. Off-duty, you’ll find me exploring local food cultures, open waters, and bouldering or simply enjoying good books and time with cats.
