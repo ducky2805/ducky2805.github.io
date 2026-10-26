@@ -7,6 +7,13 @@
     "text": "I’d love to hear from you — whether it’s about research collaboration, consulting, speaking opportunities, or just to connect.\nEmail: anhhuyen285@gmail.com\nLinkedIn: linkedin.com/in/huyen-anh-nguyen\nGitHub: github.com/ducky2805\nORCID: 0000-0002-4091-8786"
   },
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download my full CV (PDF)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About me",
@@ -14,10 +21,17 @@
     "text": "Public health economist with 8+ years of experience in health systems research, cost-effectiveness analysis, and equity in access to care. Skilled in Python, R, Power BI, and statistical modeling. Passionate about data-driven health policy and global health equity."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Download my full CV (PDF)"
+    "text": "“I am a Health Economist dedicated to advancing health equity, decision-analytic modeling, and evidence-based policy. Beyond data and decision science, I am a wanderlust traveler and cultural explorer who has called Vietnam, Sweden, the UK, and Puerto Rico home. Off-duty, you’ll usually find me discovering local food cultures, exploring open waters, or spending quiet time at home with my cat.”"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "“I am a Health Economist dedicated to advancing health equity, decision-analytic modeling, and evidence-based policy. Beyond data and decision science, I am a wanderlust traveler and cultural explorer who has called Vietnam, Sweden, the UK, and Puerto Rico home. Off-duty, you’ll usually find me discovering local food cultures, exploring open waters, or spending quiet time at home with my cat.”"
   }
 ]
