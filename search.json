@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I’d love to hear from you — whether it’s about research collaboration, consulting, speaking opportunities, or just to connect.\nEmail: anhhuyen285@gmail.com\nLinkedIn: linkedin.com/in/huyen-anh-nguyen\nGitHub: github.com/ducky2805\nORCID: 0000-0002-4091-8786"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -14,24 +7,31 @@
     "text": "Download my full CV (PDF)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About me",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "I’m a Health Economist passionate about advancing health equity through decision-analytic modeling and evidence-based policy. Beyond research, I’m a curious traveler and cultural explorer who has called Vietnam, Sweden, the UK, and Puerto Rico home. Off-duty, you’ll find me exploring local food cultures, open waters, and bouldering or simply enjoying good books and time with cats."
+    "text": "I’d love to hear from you — whether it’s about research collaboration, consulting, speaking opportunities, or just to connect.\nEmail: anhhuyen285@gmail.com\nLinkedIn: linkedin.com/in/huyen-anh-nguyen\nGitHub: github.com/ducky2805\nORCID: 0000-0002-4091-8786"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "“I’m a Health Economist passionate about advancing health equity through decision-analytic modeling and evidence-based policy. Beyond research, I’m a curious traveler and cultural explorer who has called Vietnam, Sweden, the UK, and Puerto Rico home. Off-duty, you’ll find me exploring local food cultures, open waters, and bouldering or simply enjoying good books and time with cats.”"
+    "text": "“My name is Huyen. In Vietnamese, my name littery can be synonym to “Black.” In traditional culture, this color is associated with bad luck, and my friends and family often joked about it whenever things didn’t go my way. However, I don’t believe in superstitions. While life has its ups and downs, I always feel I “ I have more than I deserve.”"
   },
   {
     "objectID": "about.html#about-me",
     "href": "about.html#about-me",
     "title": "About",
     "section": "",
-    "text": "“I’m a Health Economist passionate about advancing health equity through decision-analytic modeling and evidence-based policy. Beyond research, I’m a curious traveler and cultural explorer who has called Vietnam, Sweden, the UK, and Puerto Rico home. Off-duty, you’ll find me exploring local food cultures, open waters, and bouldering or simply enjoying good books and time with cats.”"
+    "text": "“My name is Huyen. In Vietnamese, my name littery can be synonym to “Black.” In traditional culture, this color is associated with bad luck, and my friends and family often joked about it whenever things didn’t go my way. However, I don’t believe in superstitions. While life has its ups and downs, I always feel I “ I have more than I deserve.”"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m a Health Economist passionate about advancing health equity through decision-analytic modeling and evidence-based policy. Beyond research, I’m a curious traveler and cultural explorer who has called Vietnam, Sweden, the UK, and Puerto Rico home. Off-duty, you’ll find me exploring local food cultures, open waters, and bouldering or simply enjoying good books and time with cats."
   }
 ]
